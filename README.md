@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pubudulasith093&label=Profile%20views&color=0e75b6&style=flat" alt="pubudulasith093" /> </p>
 
-- 💬 Ask me about **python, ML, DL, FL, MLOps, LLMS, LLMOPs**
+- 💬 Ask me about **python, ML, DL, FL, MLOps, LLMS, LLMOps**
 
 - 📫 How to reach me **pubudu093@gmail.com**
 
