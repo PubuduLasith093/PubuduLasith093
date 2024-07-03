@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pubudu Indrasiri</h1>
-<h3 align="center">A PhD student</h3>
+<h3 align="center">A Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pubudulasith093&label=Profile%20views&color=0e75b6&style=flat" alt="pubudulasith093" /> </p>
 
